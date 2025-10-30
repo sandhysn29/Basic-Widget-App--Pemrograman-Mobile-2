@@ -1,4 +1,4 @@
-# Basic-Widget-App--Pemrograman-Mobile-2
+# Basic Widget App - Pemrograman Mobile 2
 
 ## 1. Instalasi Package
 <p>Menambahkan dependencies carousel_slider pada file pubspec.yaml agar bisa menggunakan fitur carousel pada aplikasi.
