@@ -45,4 +45,4 @@ Bottom navigation bar di bagian bawah layar
 <img width="358" height="664" alt="Screenshot 2025-10-30 220440" src="https://github.com/user-attachments/assets/d68e9faf-7ff9-46d7-8966-16b6d2bcf125" />
 
 ## 6. Link Video Demo
-<a href="[https://drive.google.com/your-link-di-sini](https://drive.google.com/file/d/1ERewq6YWLFln46JGvoC3haL2f8MAMWG8/view?usp=sharing)" target="_blank">Google Drive</a>
+[Google Drive]([https://drive.google.com/your-link-di-sini](https://drive.google.com/file/d/1ERewq6YWLFln46JGvoC3haL2f8MAMWG8/view?usp=sharing))
